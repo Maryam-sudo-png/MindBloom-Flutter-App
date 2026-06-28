@@ -1,16 +1,72 @@
-# mind_bloom
+# MindBloom – Flutter Application
 
-A new Flutter project.
+## Overview
+MindBloom is a Flutter-based mobile application developed using Provider architecture and Supabase integration. The application is designed to provide an organized, scalable, and user-friendly experience through modular development practices.
 
-## Getting Started
+This project focuses on clean architecture, state management, and backend integration while maintaining responsive UI design.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- User Authentication
+- State Management using Provider
+- Backend Integration with Supabase
+- Responsive User Interface
+- Multi-Screen Navigation
+- Organized Project Structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+- Flutter
+- Dart
+- Provider
+- Supabase
+- Material Design
+
+---
+
+## Project Structure
+
+```bash
+lib/
+├── constants/
+├── models/
+├── providers/
+├── screens/
+├── services/
+├── theme/
+└── main.dart
+```
+
+---
+
+## Setup Instructions
+
+### Clone Repository
+```bash
+git clone <repository-link>
+```
+
+### Install Dependencies
+```bash
+flutter pub get
+```
+
+### Run Application
+```bash
+flutter run
+```
+
+---
+
+## Future Improvements
+- Notifications
+- Performance Optimization
+- Enhanced UI/UX
+- Additional Features
+
+---
+
+## Developer
+Developed by **Prevesh Maryam**
